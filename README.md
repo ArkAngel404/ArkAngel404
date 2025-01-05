@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArkAngel404
-- 👀 I’m interested in ...blackhat/white hat 
-- 🌱 I’m currently learning ... kali
+- 👀 I’m interested in ...system repairs and optimisation ai  and trading 
+- 🌱 I’m currently learning ...  and advancing code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
