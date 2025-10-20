@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArkAngel404
 - 👀 I’m interested in ...system repairs and optimisation ai  and trading 
 - 🌱 I’m currently learning ...  and advancing code
-- 📫 How to reach me ... 
+- 📫 How to reach me ... adamframe4@gmail.com
 
 <!---
 ArkAngel404/ArkAngel404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
